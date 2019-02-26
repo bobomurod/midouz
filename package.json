@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bobomurod/midouz/issues"
   },
-  "homepage": "https://github.com/bobomurod/midouz#readme"
+  "homepage": "https://github.com/bobomurod/midouz#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
