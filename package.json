@@ -1,0 +1,22 @@
+{
+  "name": "midouz",
+  "version": "1.0.0",
+  "description": "scripter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobomurod/midouz.git"
+  },
+  "keywords": [
+    "mido"
+  ],
+  "author": "@saidalo @bobomurod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobomurod/midouz/issues"
+  },
+  "homepage": "https://github.com/bobomurod/midouz#readme"
+}
